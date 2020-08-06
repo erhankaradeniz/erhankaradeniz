@@ -1,7 +1,7 @@
 ### Hi there, I'm Erhan Karadeniz - [erhankaradeniz][website] 👋
 
 ## I'm a Husband, Father, Developer
-- 🔭 I’m currently working on at [CZ Zorgverzekeraar][https://www.cz.nl]!
+- 🔭 I’m currently working on at [CZ Zorgverzekeraar][cz]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -58,3 +58,4 @@
 [website]: https://www.erhankaradeniz.com
 [twitter]: https://twitter.com/erhankaradeniz
 [linkedin]: https://linkedin.com/in/erhankaradeniz
+[cz]: https://www.cz.nl
