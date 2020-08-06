@@ -2,8 +2,6 @@
 
 ## I'm a Husband, Father, Developer
 - 🔭 I’m currently working on at [CZ Zorgverzekeraar][cz]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love playing games in my free time and walk with my husky
 
