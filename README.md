@@ -1,7 +1,7 @@
 ### Hi there, I'm Erhan Karadeniz - [erhankaradeniz][website] 👋
 
 ## I'm a Husband, Father, Developer
-- 🔭 I’m currently working on at [CZ Zorgverzekeraar][cz]!
+- 🔭 I’m currently working at [CZ Zorgverzekeraar][cz]!
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love playing games in my free time and walk with my husky
 
@@ -40,7 +40,6 @@
 ### 🚧 Currently working on
 <!-- WIP:START -->
 - [Remotebond | Remote jobs](https://remotebond.com)
-- [Emlakim | Real estate property listing](https://www.emlakim.com)
 <!-- WIP:END -->
 
 ---
